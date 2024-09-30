@@ -1,5 +1,7 @@
+import React from "react";
+
 
 const HomePage = () => {
-    reutn (<div>homepage</div>)
+    return (<div>homepage</div>)
 }
 export default HomePage;

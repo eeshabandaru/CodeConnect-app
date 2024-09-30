@@ -1,4 +1,7 @@
+import React from 'react';
+
+
 const LoginPage = () => {
-    reutn (<div>loginpage</div>)
+    return (<div>loginpage</div>)
 }
 export default LoginPage;

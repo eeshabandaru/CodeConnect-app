@@ -1,4 +1,5 @@
+import React from "react";
 const ProfilePage = () => {
-    reutn (<div>ProfilePage</div>)
+    return (<div>ProfilePage</div>)
 }
 export default ProfilePage;
